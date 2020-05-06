@@ -1,6 +1,6 @@
 {
   "engines": {
-    "node": "4.4.0",
+    "node": "4.4.0"
   },
   "name": "shadowsocks-over-websocket",
   "version": "0.1.8",
